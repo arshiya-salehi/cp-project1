@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #b2dfdb;
+  padding: 20px;
+}
+
+.banner {
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.grid {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
